@@ -1,20 +1,14 @@
 ## Hi there 👋
 
+Este proyecto de página web fue creado en clase de programación hipermedia, es una de mis primeras paginas.
+
+Este es link de dicha pagina desplegada con zeabur (https://oxxer-html.zeabur.app)
+
 ![Página web](./images/paginaweb.jpg) 
+
+Este fue mi segundo proyecto para la clase de programación hipermedia, fue un juego creado usando css, html y javascript.
+
+Este es link para el juego desplegado desde github (https://jsmelchorg.github.io/Memory-Game/)
 
 <img src="./images/memorygame.jpg" width="100%" />
 
-<!--
-**jsmelchorg/jsmelchorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
