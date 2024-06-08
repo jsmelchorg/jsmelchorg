@@ -2,7 +2,7 @@
 
 ![Página web](./images/paginaweb.jpg) 
 
-<img src="./images/paginaweb.jpg" width="30%" />
+<img src="./images/memorygame.jpg" width="100%" />
 
 <!--
 **jsmelchorg/jsmelchorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
